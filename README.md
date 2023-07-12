@@ -1,1 +1,1 @@
-# ReinforcementLearningJava
+Reinforcement learning implemented in Java.
